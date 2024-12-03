@@ -4,7 +4,9 @@ I've been doing AOC for a few years now but never to completion. Oftentimes I'd 
 
 This year I've got some free-ish time on my hands and decided to pick an easy language, and finally make an effort to complete the challenge entirely. (That's the goal, anyways!)
 
-#### The Plan
+See this less as an archive of good clean code showcase, but a journal of crude child drawing equivalent of code and see if I improve.
+
+### The Plan
 - __Try to finish it all. All of them.__ 
 - __If stuck: Look to other solutions and document them. Try to adapt it to my own code.__
 
@@ -20,7 +22,7 @@ This year I've got some free-ish time on my hands and decided to pick an easy la
 
   Using GPT feels like it defeats the point of learning as the main goal of the challenge.
 
-#### Mimi's Mantra
+### Mimi's Mantra
 - Steal knowledge and absorb them Kirby style
 - Stay silly
 - Survive
